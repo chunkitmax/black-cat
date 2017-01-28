@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=BlackCat
+Description=BlackCat plugin.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/black-cat
+ScriptFile=/lib/plymouth/themes/black-cat/black-cat.script
